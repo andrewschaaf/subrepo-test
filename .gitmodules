@@ -1,0 +1,3 @@
+[submodule "foss-credits-collection"]
+	path = foss-credits-collection
+	url = git://github.com/andrewschaaf/foss-credits-collection.git
